@@ -1,6 +1,6 @@
-## Hi there. As of now, I am professionalizing myself before entering the market. Brazilian by birth, I am fluent in english and plan to work in programming or an related area, though my dream lies with game development.
+ Hi there. As of now, I am professionalizing myself before entering the market. Brazilian by birth, I am fluent in english and plan to work in programming or an related area, though my dream lies with game development.
 
-## Olá. Neste momento, estou me professionalizando antes de entrar no mercado de trabalho. Brasileiro por nascimento e natureza, sou fluente em inglês e pretendo trabalhar em programação ou em uma área relacionada, embora meu sonho seja trabalhar em desenvolvimento de games.
+ Olá. Neste momento, estou me professionalizando antes de entrar no mercado de trabalho. Brasileiro por nascimento e natureza, sou fluente em inglês e pretendo trabalhar em programação ou em uma área relacionada, embora meu sonho seja trabalhar em desenvolvimento de games.
 <!--
 **HaloHello897/HaloHello897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
